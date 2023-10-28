@@ -1,0 +1,38 @@
+[
+  {
+    "productName": "High-Performance Tires",
+    "productPrice": "99.99",
+    "productImage": "https://i.ibb.co/tcf8vxT/car-repair-product-1.jpg",
+    "productRating": "4.5"
+  },
+  {
+    "productName": "Air Filter Replacement",
+    "productPrice": "19.99",
+    "productImage": "https://i.ibb.co/98GPYjq/car-repair-product-2.jpg",
+    "productRating": "4.0"
+  },
+  {
+    "productName": "Brake Pad Set",
+    "productPrice": "39.99",
+    "productImage": "https://i.ibb.co/wynqrSv/car-repair-product-3.jpg",
+    "productRating": "4.3"
+  },
+  {
+    "productName": "Engine Oil - 5 Quarts",
+    "productPrice": "29.99",
+    "productImage": "https://i.ibb.co/TMtSTHX/car-repair-product-4.jpg",
+    "productRating": "4.2"
+  },
+  {
+    "productName": "Car Battery",
+    "productPrice": "69.99",
+    "productImage": "https://i.ibb.co/Sr33GDr/car-repair-product-5.jpg",
+    "productRating": "3.8"
+  },
+  {
+    "productName": "Spark Plug Set",
+    "productPrice": "9.99",
+    "productImage": "https://i.ibb.co/1KyQ6jT/car-repair-product-6.jpg",
+    "productRating": "4.1"
+  }
+]

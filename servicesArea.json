@@ -1,0 +1,38 @@
+[
+  {
+    "serviceTitle": "Oil Change",
+    "servicePrice": "49.99",
+    "serviceImage": "https://i.ibb.co/sQCFMZF/car-repair-service-2.jpg",
+    "serviceDescription": "Keep your engine running smoothly with our professional oil change service. Our technicians will replace your old oil with high-quality oil, ensuring optimal lubrication and engine performance. We'll also check and replace the oil filter for a complete service."
+  },
+  {
+    "serviceTitle": "Brake Replacement",
+    "servicePrice": "129.99",
+    "serviceImage": "https://i.ibb.co/6sGCCrj/car-repair-service-3.jpg",
+    "serviceDescription": "Stay safe on the road with our brake replacement service. Our experienced mechanics will inspect your braking system, replace worn-out brake pads and rotors, and ensure your brakes are in top condition. Don't compromise on safety—trust us for reliable brake replacement."
+  },
+  {
+    "serviceTitle": "Tire Rotation",
+    "servicePrice": "39.99",
+    "serviceImage": "https://i.ibb.co/R310TZs/car-repair-service-4.jpg",
+    "serviceDescription": "Maximize the lifespan of your tires with our tire rotation service. We'll swap your tires from front to back and side to side to ensure even wear, improving handling and traction. Our tire experts will also check tire pressure and balance for a smooth and safe ride."
+  },
+  {
+    "serviceTitle": "Engine Tune-Up",
+    "servicePrice": "89.99",
+    "serviceImage": "https://i.ibb.co/7pw2BBy/car-repair-service-5.jpg",
+    "serviceDescription": "Give your vehicle a performance boost with our comprehensive engine tune-up service. We'll inspect and fine-tune various engine components, including spark plugs, fuel injectors, and ignition timing. Experience improved fuel efficiency, smoother acceleration, and reduced emissions."
+  },
+  {
+    "serviceTitle": "Air Conditioning Repair",
+    "servicePrice": "79.99",
+    "serviceImage": "https://i.ibb.co/XtvbGt1/car-repair-service-6.jpg",
+    "serviceDescription": "Stay cool during hot summer days with our air conditioning repair service. Our certified technicians will diagnose and fix issues with your A/C system, ensuring it blows cold air efficiently. Don't sweat it out in a sweltering car—let us keep your A/C in top shape."
+  },
+  {
+    "serviceTitle": "Diagnostic Service",
+    "servicePrice": "59.99",
+    "serviceImage": "https://i.ibb.co/hK0Qyjn/car-repair-service-1.jpg",
+    "serviceDescription": "Get to the root of your vehicle's problems with our advanced diagnostic service. Our state-of-the-art equipment and skilled technicians will scan your vehicle's computer systems, identify issues, and provide you with a detailed report. Trust us to pinpoint and fix any automotive problems efficiently."
+  }
+]

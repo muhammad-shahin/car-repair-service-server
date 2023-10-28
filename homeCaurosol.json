@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Expert Mechanics at Your Service",
+    "shortDescription": "Our skilled team of mechanics is ready to tackle any car issue you may have.",
+    "carouselImage": "https://i.ibb.co/gMNMVwr/slider-image-1.jpg"
+  },
+  {
+    "title": "Quality Repairs, Affordable Prices",
+    "shortDescription": "We provide top-notch car repairs at prices that won't break the bank.",
+    "carouselImage": "https://i.ibb.co/482GWxr/slider-image-2.jpg"
+  },
+  {
+    "title": "Fast and Reliable Service",
+    "shortDescription": "We get you back on the road quickly, without sacrificing quality.",
+    "carouselImage": "https://i.ibb.co/Fs7nvXy/slider-image-3.jpg"
+  },
+  {
+    "title": "24/7 Emergency Repairs",
+    "shortDescription": "We're here for you day or night, whenever you need us.",
+    "carouselImage": "https://i.ibb.co/g7Qgfg1/slider-image-4.jpg"
+  }
+]

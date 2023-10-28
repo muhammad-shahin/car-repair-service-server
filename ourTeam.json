@@ -1,0 +1,37 @@
+[
+  {
+    "memberName": "John Smith",
+    "designation": "Lead Mechanic",
+    "memberImage": "https://i.ibb.co/4S1Pcj1/team-member-1.jpg"
+  },
+  {
+    "memberName": "Emily Davis",
+    "designation": "Auto Technician",
+    "memberImage": "https://i.ibb.co/sFnNv0t/team-member-2.jpg"
+  },
+  {
+    "memberName": "Michael Johnson",
+    "designation": "Customer Service Specialist",
+    "memberImage": "https://i.ibb.co/TBVR1RQ/team-member-3.jpg"
+  },
+  {
+    "memberName": "Sophia Wilson",
+    "designation": "Parts and Inventory Manager",
+    "memberImage": "https://i.ibb.co/s9VJSvz/team-member-4.jpg"
+  },
+  {
+    "memberName": "Robert Anderson",
+    "designation": "Auto Painter",
+    "memberImage": "https://i.ibb.co/4S1Pcj1/team-member-1.jpg"
+  },
+  {
+    "memberName": "Jennifer Martinez",
+    "designation": "Service Advisor",
+    "memberImage": "https://i.ibb.co/TBVR1RQ/team-member-3.jpg"
+  },
+  {
+    "memberName": "David Brown",
+    "designation": "Quality Control Inspector",
+    "memberImage": "https://i.ibb.co/sFnNv0t/team-member-2.jpg"
+  }
+]
