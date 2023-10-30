@@ -1,1 +1,3 @@
 node_modules
+.env
+toke_generate_steps.js
